@@ -10,4 +10,8 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
 
+    public void branch_1() {
+        System.out.println("这里是分支-1");
+    }
+
 }
